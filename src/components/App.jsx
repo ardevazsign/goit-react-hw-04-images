@@ -10,7 +10,9 @@ export const App = () => {
         color: '#010101'
       }}
     >
-      React homework template
+      ArdevazSign 2024 <br />
+      Owen Saavedra     <br />
+      Hw 4 images
     </div>
   );
 };
